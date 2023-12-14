@@ -18,6 +18,9 @@
 - name: Stock (KSP2)
   folderName: stock2
 
+- name: test
+  folderName: test
+
 # Template:
 # - name: New Solar System
 #   folderName: new-solar-system
