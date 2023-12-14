@@ -58,13 +58,11 @@
   soi:                9_646_663
   orbit:
     semiMajorAxis:    5_263_138_304
-    apoapsis:         6_315_765_981
-    periapsis:        4_210_510_628
-    eccentricity:     0.2
-    inclination:      7
-    argOfPeriapsis:   15
-    ascNodeLongitude: 70
-  meanAnomaly0:       3.14
+    eccentricity:     0
+    inclination:      0
+    argOfPeriapsis:   0
+    ascNodeLongitude: 0
+  meanAnomaly0:       0
   epoch:              0
   orbiting:           0
   color:              0xa88161
