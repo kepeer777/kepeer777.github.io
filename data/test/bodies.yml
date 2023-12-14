@@ -42,27 +42,138 @@
 - !!map
   id:                 0
   name:               Sun
-  radius:             261_600_000
-  atmosphereAlt:      600_000
-  mass:               1.7565459e+28
-  stdGravParam:       1.1723328e+18
+  radius:             31_500_000
+  atmosphereAlt:      300_000
+  mass:               1.48667e+27
+  stdGravParam:       9.9225e+16
   soi:                .inf
   color:              0xffffff
 
 - !!map
   id:                 1
-  name:               Moho
-  radius:             250_000
-  mass:               2.5263314e+21
-  stdGravParam:       1.6860938e+11
-  soi:                9_646_663
+  name:               Mercury
+  radius:             120_000
+  mass:               7.05512e+20
+  stdGravParam:       47_088_000_000
+  soi:                8_430_094.195
   orbit:
-    semiMajorAxis:    5_263_138_304
+    semiMajorAxis:    1_247_000_000
     eccentricity:     0
     inclination:      0
     argOfPeriapsis:   0
     ascNodeLongitude: 0
-  meanAnomaly0:       0
+  meanAnomaly0:       4.12875087851778604
   epoch:              0
   orbiting:           0
+  color:              0xffffff
+
+- !!map
+  id:                 2
+  name:               Venus
+  radius:             300_000
+  atmosphereAlt:      40_000
+  mass:               1.19608e+22
+  stdGravParam:       7.983e+11
+  soi:                35_480_219.83
+  orbit:
+    semiMajorAxis:    2_043_000_000
+    eccentricity:     0
+    inclination:      0
+    argOfPeriapsis:   0
+    ascNodeLongitude: 0
+  meanAnomaly0:       5.50185473056664717
+  epoch:              0
+  orbiting:           0
+  color:              0xffffff
+
+- !!map
+  id:                 3
+  name:               Earth
+  radius:             315_000
+  atmosphereAlt:      30_000
+  mass:               1.45694e+22
+  stdGravParam:       9.72405e+11
+  soi:                44_394_570.92
+  orbit:
+    semiMajorAxis:    2_992_000_000
+    eccentricity:     0
+    inclination:      0
+    argOfPeriapsis:   0
+    ascNodeLongitude: 0
+  meanAnomaly0:       1.06325942845175667
+  epoch:              0
+  orbiting:           0
+  color:              0xffffff
+
+- !!map
+  id:                 4
+  name:               Moon
+  radius:             86_500
+  mass:               1.5919e+20
+  stdGravParam:       10_624_795_000
+  soi:                1_349_326.029
+  orbit:
+    semiMajorAxis:    8_770_000
+    eccentricity:     0
+    inclination:      0
+    argOfPeriapsis:   0
+    ascNodeLongitude: 0
+  meanAnomaly0:       2.45
+  epoch:              0
+  orbiting:           3
+  color:              0xffffff
+
+- !!map
+  id:                 5
+  name:               Mars
+  atmosphereAlt:      20_000
+  radius:             169_500
+  mass:               1.55396e+21
+  stdGravParam:       1.03716e+11
+  soi:                27_262_226.9
+  orbit:
+    semiMajorAxis:    4_558_000_000
+    eccentricity:     0
+    inclination:      0
+    argOfPeriapsis:   0
+    ascNodeLongitude: 0
+  meanAnomaly0:       4.63243835623291627
+  epoch:              0
+  orbiting:           0
+  color:              0xffffff
+
+- !!map
+  id:                 6
+  name:               Phobos
+  radius:             6_000
+  mass:               4.69263e+16
+  stdGravParam:       3_132_000
+  soi:                36_165.94281
+  orbit:
+    semiMajorAxis:    1_340_000
+    eccentricity:     0
+    inclination:      0
+    argOfPeriapsis:   0
+    ascNodeLongitude: 0
+  meanAnomaly0:       5.7
+  epoch:              0
+  orbiting:           5
+  color:              0xffffff
+
+- !!map
+  id:                 7
+  name:               Deimos
+  radius:             3_250
+  mass:               8.54584e+15
+  stdGravParam:       570_375
+  soi:                60_733.98004
+  orbit:
+    semiMajorAxis:    3_970_000
+    eccentricity:     0
+    inclination:      0
+    argOfPeriapsis:   0
+    ascNodeLongitude: 0
+  meanAnomaly0:       1.15
+  epoch:              0
+  orbiting:           5
   color:              0xffffff
