@@ -47,7 +47,7 @@
   mass:               1.48667e+27
   stdGravParam:       9.9225e+16
   soi:                .inf
-  color:              0xffffff
+  color:              0xfff7c8
 
 - !!map
   id:                 1
@@ -65,7 +65,7 @@
   meanAnomaly0:       4.12875087851778604
   epoch:              0
   orbiting:           0
-  color:              0xffffff
+  color:              0x695f59
 
 - !!map
   id:                 2
@@ -84,7 +84,7 @@
   meanAnomaly0:       5.50185473056664717
   epoch:              0
   orbiting:           0
-  color:              0xffffff
+  color:              0xc9a57f
 
 - !!map
   id:                 3
@@ -103,7 +103,7 @@
   meanAnomaly0:       1.06325942845175667
   epoch:              0
   orbiting:           0
-  color:              0xffffff
+  color:              0x73adff
 
 - !!map
   id:                 4
@@ -121,7 +121,7 @@
   meanAnomaly0:       2.45
   epoch:              0
   orbiting:           3
-  color:              0xffffff
+  color:              0x606161
 
 - !!map
   id:                 5
@@ -140,7 +140,7 @@
   meanAnomaly0:       4.63243835623291627
   epoch:              0
   orbiting:           0
-  color:              0xffffff
+  color:              0xae564d
 
 - !!map
   id:                 6
@@ -158,7 +158,7 @@
   meanAnomaly0:       5.7
   epoch:              0
   orbiting:           5
-  color:              0xffffff
+  color:              0x5b4e49
 
 - !!map
   id:                 7
@@ -176,4 +176,4 @@
   meanAnomaly0:       1.15
   epoch:              0
   orbiting:           5
-  color:              0xffffff
+  color:              0x6a5a47
