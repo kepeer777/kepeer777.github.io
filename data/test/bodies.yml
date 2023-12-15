@@ -55,7 +55,7 @@
   radius:             120_000
   mass:               7.05512e+20
   stdGravParam:       47_088_000_000
-  soi:                8_430_094.195
+  soi:                4_605_665.54817304242
   orbit:
     semiMajorAxis:    1_247_000_000
     eccentricity:     0
@@ -74,7 +74,7 @@
   atmosphereAlt:      40_000
   mass:               1.19608e+22
   stdGravParam:       7.983e+11
-  soi:                35_480_219.83
+  soi:                23_409_742.6788068150
   orbit:
     semiMajorAxis:    2_043_000_000
     eccentricity:     0
@@ -93,7 +93,7 @@
   atmosphereAlt:      30_000
   mass:               1.45694e+22
   stdGravParam:       9.72405e+11
-  soi:                44_394_570.92
+  soi:                29_679_216.0233779814
   orbit:
     semiMajorAxis:    2_992_000_000
     eccentricity:     0
@@ -111,7 +111,7 @@
   radius:             86_500
   mass:               1.5919e+20
   stdGravParam:       10_624_795_000
-  soi:                1_349_326.029
+  soi:                1_440_088.69032900103
   orbit:
     semiMajorAxis:    8_770_000
     eccentricity:     0
@@ -130,7 +130,7 @@
   radius:             169_500
   mass:               1.55396e+21
   stdGravParam:       1.03716e+11
-  soi:                27_262_226.9
+  soi:                15_699_410.6581459145
   orbit:
     semiMajorAxis:    4_558_000_000
     eccentricity:     0
@@ -148,7 +148,7 @@
   radius:             6_000
   mass:               4.69263e+16
   stdGravParam:       3_132_000
-  soi:                36_165.94281
+  soi:                26_061.8596842364791
   orbit:
     semiMajorAxis:    1_340_000
     eccentricity:     0
@@ -166,7 +166,7 @@
   radius:             3_250
   mass:               8.54584e+15
   stdGravParam:       570_375
-  soi:                60_733.98004
+  soi:                39_068.4776296940487
   orbit:
     semiMajorAxis:    3_970_000
     eccentricity:     0
